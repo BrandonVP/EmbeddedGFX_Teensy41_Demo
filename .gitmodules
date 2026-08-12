@@ -1,0 +1,3 @@
+[submodule "EmbeddedGFX_Teensy41_Demo/Libraries/EmbeddedGFX"]
+	path = EmbeddedGFX_Teensy41_Demo/Libraries/EmbeddedGFX
+	url = https://github.com/BrandonVP/EmbeddedGFX.git

@@ -1,0 +1,33 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EmbeddedGFX_Teensy41_Demo", "EmbeddedGFX_Teensy41_Demo\EmbeddedGFX_Teensy41_Demo.vcxproj", "{2B9D4E17-6C3A-4F52-9E8D-1A7B0C4D5E63}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EmbeddedGFX", "EmbeddedGFX_Teensy41_Demo\Libraries\EmbeddedGFX\EmbeddedGFX.vcxitems", "{7F4C2E10-9B3A-4D6E-8F21-2A5C6B7D8E90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B9D4E17-6C3A-4F52-9E8D-1A7B0C4D5E63}.Debug|ARM.ActiveCfg = Debug|ARM
+		{2B9D4E17-6C3A-4F52-9E8D-1A7B0C4D5E63}.Debug|ARM.Deploy.0 = ARM
+		{2B9D4E17-6C3A-4F52-9E8D-1A7B0C4D5E63}.Debug|ARM.Build.0 = Debug|ARM
+		{2B9D4E17-6C3A-4F52-9E8D-1A7B0C4D5E63}.Release|ARM.ActiveCfg = Release|ARM
+		{2B9D4E17-6C3A-4F52-9E8D-1A7B0C4D5E63}.Release|ARM.Deploy.0 = ARM
+		{2B9D4E17-6C3A-4F52-9E8D-1A7B0C4D5E63}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C4D5E6F-7A8B-4C9D-AE0F-1B2C3D4E5F60}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		EmbeddedGFX_Teensy41_Demo\Libraries\EmbeddedGFX\EmbeddedGFX.vcxitems*{7f4c2e10-9b3a-4d6e-8f21-2a5c6b7d8e90}*SharedItemsImports = 9
+		EmbeddedGFX_Teensy41_Demo\Libraries\EmbeddedGFX\EmbeddedGFX.vcxitems*{2b9d4e17-6c3a-4f52-9e8d-1a7b0c4d5e63}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal
